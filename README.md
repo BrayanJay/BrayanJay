@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Brayan Jay
 
-<!--
-**BrayanJay/BrayanJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Web Developer with over 1.5 years experience and specializing in building scalable web applications and modern user interfaces.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages:** HTML, CSS, JavaScript, TypeScript, Python, Java
+- **Frameworks:** React, Node.js, Express, Django, FastAPI, Flask
+- **Databases:** MySQL, MSSQL, PostgreSQL
+- **Tools:** Git, Vercel, Figma, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Featured Projects
+- [Content Management System](https://github.com/BrayanJay/Content-Management-System): Robust CMS for small businesses.
+- [Hotel Management System CLI](https://github.com/BrayanJay/Hotel-Management-System-CLI): Command line tool for hotel management.
+- [Portfolio Website](https://github.com/BrayanJay/my-portfolio): My personal website, built with React and hosted on Vercel.
+
+## 📫 Contact Me
+- [Website](https://www.brayanjay.web.lk/)
+- [LinkedIn](https://www.linkedin.com/in/brayan-jayawardhana)
+- [Email](mailto:brayanjayawardhana@gmail.com)
