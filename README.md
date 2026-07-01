@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Brayan%20Jay&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20LLM%20%7C%20RAG%20%7C%20Full%20Stack&descAlignY=52&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Brayan%20Jay&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20LLM%20%7C%20RAG%20%7C%20Full%20Stack&descAlignY=52&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI Engineer** based in Sri Lanka 🇱🇰 building production RAG and LLM systems. I focus on practical AI: retrieval pipelines, LLM tool-calling, vector search, and the engineering that makes them reliable at scale. I came into AI through UI/UX and frontend, so I can take a feature from architecture all the way to an interface people enjoy using.
+I'm an **Software Engineer** based in Sri Lanka 🇱🇰 building production RAG and LLM systems. I focus on practical AI: retrieval pipelines, LLM tool-calling, vector search, and the engineering that makes them reliable at scale. I came into AI through UI/UX and frontend, so I can take a feature from architecture all the way to an interface people enjoy using.
 
 - 🤖 Building a self-hosted, privacy-first **enterprise AI assistant** (RAG, pgvector, vLLM) serving 1,000+ employees
 - 🧾 Shipped **Astrynox ERP** solo — a live multi-tenant SaaS with an AI financial assistant
@@ -77,9 +77,9 @@ I'm an **AI Engineer** based in Sri Lanka 🇱🇰 building production RAG and L
 
 | Project | Description | Stack |
 |---|---|---|
-| [🧾 Astrynox ERP](https://github.com/BrayanJay) | Live multi-tenant SaaS ERP with an AI financial assistant: GPT-4o-mini tool-calling, server-side SQL, org-scoped access, prompt-injection prevention. 50+ endpoints, 200+ tests at ~80% coverage. | FastAPI · Next.js · PostgreSQL · OpenAI · Docker |
-| [🛡️ ArgusV](https://github.com/BrayanJay) | AI-powered security surveillance platform (university group project, live). Contributed the live streaming pipeline and detection flow. | FastAPI · YOLOv8 · ByteTrack · GPT-4o · pgvector · MediaMTX |
-| [🧠 HRM AI Assistant](https://github.com/BrayanJay) | Architecture writeup of a self-hosted, privacy-first enterprise RAG assistant (code private). | BGE-M3 · pgvector · RRF · Redis · Qwen · vLLM |
+| [🧾 Astrynox ERP](https://github.com/BrayanJay) | Live multi-tenant SaaS ERP with an Agentic AI workflow assistant: GPT-4o-mini tool-calling, server-side SQL, org-scoped access, prompt-injection prevention. | FastAPI · Next.js · PostgreSQL · OpenAI · Docker |
+| [🛡️ ArgusV](https://github.com/BrayanJay) | AI-powered security surveillance platform (university group project). Contributed the live streaming pipeline and detection flow. | FastAPI · YOLOv8 · ByteTrack · GPT-4o · pgvector · MediaMTX |
+| [🧠 HRM AI Assistant](https://github.com/BrayanJay) | Architecture writeup of a multimodal RAG, enterprise AI assistant (code private). | BGE-M3 · pgvector · RRF · Redis · LLM Integration · GPT-4o · GPT-4o vision |
 
 <br/>
 
