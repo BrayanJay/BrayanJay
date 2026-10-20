@@ -91,7 +91,7 @@ I'm an **Software Engineer** based in Sri Lanka 🇱🇰 building production RAG
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanJay&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=BrayanJay&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br/>
