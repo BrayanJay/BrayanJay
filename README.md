@@ -26,7 +26,7 @@ I started with **UI/UX and frontend engineering**, then moved deeper into full-s
 - 🧠 Building a **self-hosted, privacy-first enterprise AI assistant** using RAG, pgvector, and vLLM, designed to support **1,000+ employees**.
 - 🚀 Independently shipped **Astrynox ERP**, a live multi-tenant SaaS platform with an AI-powered financial assistant.
 - 🛡️ Contributed to **ArgusV**, a computer-vision security platform built with YOLOv8 and GPT-4o.
-- 💼 **Associate AI / UX Engineer** at **Asia Asset Finance PLC**.
+- 💼 **Full Stack Software Engineer**.
 - 🎓 **BSc (Hons) Computer Science**, University of Westminster (IIT) — specializing in AI & ML.
 
 ## ⚡ What I work on
